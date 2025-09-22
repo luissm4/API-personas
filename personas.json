@@ -2,16 +2,19 @@
   {
     "cedula": "1143464716",
     "nombre": "andres",
-    "apellido": "monsalve"
+    "apellido": "monsalve",
+    "dominio": "andres.monsalve"
   },
   {
     "cedula": "1234567",
     "nombre": "Lucas",
-    "apellido": "Martínez"
+    "apellido": "Martínez",
+    "dominio": ""
   },
   {
     "cedula": "1001779143",
     "nombre": "Luis",
-    "apellido": "Munoz"
+    "apellido": "Munoz",
+    "dominio": "luis.munoz"
   }
 ]
